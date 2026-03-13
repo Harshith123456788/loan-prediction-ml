@@ -10,3 +10,6 @@ knn - 57%
 Decision Tree : 68%
 Random Forest : 77% (best model)
 SVM : 60%
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harshith123456788/loan-prediction-ml/blob/main/Projectintern.ipynb)
